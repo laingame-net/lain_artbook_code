@@ -1,0 +1,1071 @@
+
+JPEGsnoop 1.8.0a by Calvin Hass
+  http://www.impulseadventure.com/photo/
+  -------------------------------------
+
+  Filename: [innocent.fix1.jpg]
+  Filesize: [3050] Bytes
+
+Start Offset: 0x00000000
+*** Marker: SOI (xFFD8) ***
+  OFFSET: 0x00000000
+ 
+*** Marker: APP0 (xFFE0) ***
+  OFFSET: 0x00000002
+  Length     = 16
+  Identifier = [JFIF]
+  version    = [1.2]
+  density    = 300 x 300 DPI (dots per inch)
+  thumbnail  = 0 x 0
+ 
+*** Marker: APP13 (xFFED) ***
+  OFFSET: 0x00000014
+  Length          = 520
+  Identifier      = [Photoshop 3.0]
+      8BIM: [0x03E9] Name="" Len=[0x0078] DefinedName="Macintosh print manager print info record"
+        Macintosh print manager print info record          =
+         | 0x00 06 00 00 00 48 00 48 00 00 00 00 02 FD 02 40  | .....H.H.......@
+         | 0xFF DE FF F6 03 27 02 49 92 03 05 79 03 DF 00 02  | .....'.I...y....
+         | 0xFD 00 02 58 02 58 00 00 00 00 18 E5 12 C0 02 58  | ...X.X.........X
+         | 0x00 2D 05 A0 53 AC 00 26 08 01 01 01 00 18 00 01  | .-..S..&........
+         | 0x27 0F 00 01 00 01 00 00 00 00 00 00 00 00 00 00  | '...............
+         | 0x00 80 00 01 00 00 01 01 00 00 00 00 00 00 00 00  | ................
+         | 0x00 00 00 00 00 00 00 00 00 00 00 00 30 01 02 18  | ............0...
+         | 0x01 02 00 00 00 12 00 04                          | ........        
+      8BIM: [0x03ED] Name="" Len=[0x0010] DefinedName="ResolutionInfo structure"
+        Horizontal resolution                              = 300 pixels per inch
+        Width unit                                         = cm
+        Vertical resolution                                = 300 pixels per inch
+        Height unit                                        = cm
+      8BIM: [0x040D] Name="" Len=[0x0004] DefinedName="Global Angle"
+        Global Angle                                       = 120 degrees
+      8BIM: [0x03F3] Name="" Len=[0x0008] DefinedName="Print flags"
+        Labels                                             = false
+        Crop marks                                         = false
+        Color bars                                         = false
+        Registration marks                                 = false
+        Negative                                           = false
+        Flip                                               = false
+        Interpolate                                        = false
+        Caption                                            = false
+        Print flags                                        = true
+ERROR: Parsing exceeded expected length. Stopping decode. BIM=[Print flags], CurPos=[0x000000EB], ExpPosEnd=[0x000000EA], ExpLen=[8]
+      8BIM: [0x040A] Name="" Len=[0x0001] DefinedName="Copyright flag"
+        Copyright flag                                     = false
+      8BIM: [0x2710] Name="" Len=[0x000A] DefinedName="Print flags information"
+        Version                                            = 1 
+        Center crop marks                                  = 0 
+        Reserved                                           = 0 
+        Bleed width value                                  = 0 
+        Bleed width scale                                  = 2 
+      8BIM: [0x03F5] Name="" Len=[0x0048] DefinedName="Color halftoning information"
+        Color halftoning information                       =
+         | 0x00 2F 66 66 00 01 00 6C 66 66 00 06 00 00 00 00  | ./ff...lff......
+         | 0x00 01 00 2F 66 66 00 01 00 A1 99 9A 00 06 00 00  | .../ff..........
+         | 0x00 00 00 01 00 32 00 00 00 01 00 5A 00 00 00 06  | .....2.....Z....
+         | 0x00 00 00 00 00 01 00 35 00 00 00 01 00 2D 00 00  | .......5.....-..
+         | 0x00 06 00 00 00 00 00 01                          | ........        
+      8BIM: [0x03F8] Name="" Len=[0x0070] DefinedName="Color transfer functions"
+        Color transfer functions                           =
+         | 0x00 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF  | ................
+         | 0xFF FF FF FF FF FF FF FF 03 E8 00 00 00 00 FF FF  | ................
+         | 0xFF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  | ................
+         | 0xFF FF FF FF 03 E8 00 00 00 00 FF FF FF FF FF FF  | ................
+         | 0xFF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  | ................
+         | 0x03 E8 00 00 00 00 FF FF FF FF FF FF FF FF FF FF  | ................
+         | 0xFF FF FF FF FF FF FF FF FF FF FF FF 03 E8 00 00  | ................
+      8BIM: [0x0408] Name="" Len=[0x0010] DefinedName="Grid and guides information"
+        Version                                            = 1 
+        Grid Horizontal                                    = 576 
+        Grid Vertical                                      = 576 
+        Number of Guide Resources                          = 0 
+      8BIM: [0x0414] Name="" Len=[0x0004] DefinedName="Document-specific IDs seed number"
+        Base value                                         = 10 
+      8BIM: [0x0406] Name="" Len=[0x0007] DefinedName="JPEG quality"
+        Photoshop Save As Quality                          = 4 
+        Photoshop Save Format                              = "Standard"
+        Photoshop Save Progressive Scans                   = "3 Scans"
+        ???                                                = 1 
+ 
+*** Marker: APP2 (xFFE2) ***
+  OFFSET: 0x0000021E
+  Length          = 556
+  Identifier      = [ICC_PROFILE]
+    ICC Profile:
+      Marker Number = 1 of 1
+        Profile Size                      : 540 bytes
+        Preferred CMM Type                : 'ADBE' (0x41444245)
+        Profile Version                   : 0.2.1.0 (0x02100000)
+        Profile Device/Class              : Display Device profile ('mntr' (0x6D6E7472))
+        Data Colour Space                 : rgbData ('RGB ' (0x52474220))
+        Profile connection space (PCS)    : 'XYZ ' (0x58595A20)
+        Profile creation date             : 1999-03-29 00:26:53
+        Profile file signature            : 'acsp' (0x61637370)
+        Primary platform                  : Apple Computer, Inc. ('APPL' (0x4150504C))
+        Profile flags                     : 0x00000000
+        Profile flags                       > Profile not embedded
+        Profile flags                       > Profile can't be used independently of embedded
+        Device Manufacturer               : 'none' (0x6E6F6E65)
+        Device Model                      : '....' (0x00000000)
+        Device attributes                 : 0x00000000_00000000
+        Device attributes                   > Reflective
+        Device attributes                   > Glossy
+        Device attributes                   > Media polarity = negative
+        Device attributes                   > Black & white media
+        Rendering intent                  : Perceptual
+        Profile creator                   : 'ADBE' (0x41444245)
+        Profile ID                        : 0x00000000_00000000_00000000_00000000
+ 
+*** Marker: COM (Comment) (xFFFE) ***
+  OFFSET: 0x0000044C
+  Comment length = 38
+    Comment=File written by Adobe Photoshop? 5.2
+ 
+*** Marker: APP14 (xFFEE) ***
+  OFFSET: 0x00000474
+  Length            = 14
+  DCTEncodeVersion  = 100
+  APP14Flags0       = 32768
+  APP14Flags1       = 0
+  ColorTransform    = 1 [YCbCr]
+ 
+*** Marker: DQT (xFFDB) ***
+  Define a Quantization Table.
+  OFFSET: 0x00000484
+  Table length = 132
+  ----
+  Precision=8 bits
+  Destination ID=0 (Luminance)
+    DQT, Row #0:  16  11  11  27  23  27  23  17 
+    DQT, Row #1:  11  12  12  15  20  23  12  12 
+    DQT, Row #2:  11  12  13  16  23  12  12  12 
+    DQT, Row #3:  16  15  18  23  12  12  12  12 
+    DQT, Row #4:  23  20  23  12  12  12  12  12 
+    DQT, Row #5:  20  23  12  12  12  12  12  12 
+    DQT, Row #6:  23  12  12  12  12  12  12  12 
+    DQT, Row #7:  12  12  12  12  12  12  12  12 
+    Approx quality factor = 77.04 (scaling=45.91 variance=1487.41)
+  ----
+  Precision=8 bits
+  Destination ID=1 (Chrominance)
+    DQT, Row #0:  17  15  17  21  20  20  17  17 
+    DQT, Row #1:  15  19  18  14  14  12  12  12 
+    DQT, Row #2:  17  18  14  14  12  12  12  12 
+    DQT, Row #3:  21  14  14  15  12  12  12  12 
+    DQT, Row #4:  20  14  12  12  12  12  12  12 
+    DQT, Row #5:  20  12  12  12  12  12  12  12 
+    DQT, Row #6:  17  12  12  12  12  12  12  12 
+    DQT, Row #7:  17  12  12  12  12  12  12  12 
+    Approx quality factor = 88.47 (scaling=23.06 variance=509.42)
+ 
+*** Marker: SOF0 (Baseline DCT) (xFFC0) ***
+  OFFSET: 0x0000050A
+  Frame header length = 17
+  Precision = 8
+  Number of Lines = 320
+  Samples per Line = 142
+  Image Size = 142 x 320
+  Raw Image Orientation = Portrait
+  Number of Img components = 3
+    Component[1]: ID=0x01, Samp Fac=0x22 (Subsamp 1 x 1), Quant Tbl Sel=0x00 (Lum: Y)
+    Component[2]: ID=0x02, Samp Fac=0x11 (Subsamp 2 x 2), Quant Tbl Sel=0x01 (Chrom: Cb)
+    Component[3]: ID=0x03, Samp Fac=0x11 (Subsamp 2 x 2), Quant Tbl Sel=0x01 (Chrom: Cr)
+ 
+*** Marker: DRI (Restart Interval) (xFFDD) ***
+  OFFSET: 0x0000051D
+  Length     = 4
+  interval   = 9
+ 
+*** Marker: DHT (Define Huffman Table) (xFFC4) ***
+  OFFSET: 0x00000523
+  Huffman table length = 322
+  ----
+  Destination ID = 0
+  Class = 0 (DC / Lossless Table)
+    Codes of length 01 bits (000 total): 
+    Codes of length 02 bits (001 total): 03 
+    Codes of length 03 bits (005 total): 00 01 02 04 05 
+    Codes of length 04 bits (001 total): 06 
+    Codes of length 05 bits (001 total): 07 
+    Codes of length 06 bits (001 total): 08 
+    Codes of length 07 bits (001 total): 09 
+    Codes of length 08 bits (001 total): 0A 
+    Codes of length 09 bits (001 total): 0B 
+    Codes of length 10 bits (000 total): 
+    Codes of length 11 bits (000 total): 
+    Codes of length 12 bits (000 total): 
+    Codes of length 13 bits (000 total): 
+    Codes of length 14 bits (000 total): 
+    Codes of length 15 bits (000 total): 
+    Codes of length 16 bits (000 total): 
+    Total number of codes: 012
+
+  Expanded Form of Codes:
+    Codes of length 02 bits:
+      00 = 03                            (Total Len =  5)
+    Codes of length 03 bits:
+      010 = 00                           (Total Len =  3)
+      011 = 01                           (Total Len =  4)
+      100 = 02                           (Total Len =  5)
+      101 = 04                           (Total Len =  7)
+      110 = 05                           (Total Len =  8)
+    Codes of length 04 bits:
+      1110 = 06                          (Total Len = 10)
+    Codes of length 05 bits:
+      11110 = 07                         (Total Len = 12)
+    Codes of length 06 bits:
+      111110 = 08                        (Total Len = 14)
+    Codes of length 07 bits:
+      1111110 = 09                       (Total Len = 16)
+    Codes of length 08 bits:
+      11111110 = 0A                      (Total Len = 18)
+    Codes of length 09 bits:
+      111111110 = 0B                     (Total Len = 20)
+
+  ----
+  Destination ID = 1
+  Class = 0 (DC / Lossless Table)
+    Codes of length 01 bits (000 total): 
+    Codes of length 02 bits (001 total): 01 
+    Codes of length 03 bits (005 total): 00 02 03 04 05 
+    Codes of length 04 bits (001 total): 06 
+    Codes of length 05 bits (001 total): 07 
+    Codes of length 06 bits (001 total): 08 
+    Codes of length 07 bits (001 total): 09 
+    Codes of length 08 bits (001 total): 0A 
+    Codes of length 09 bits (001 total): 0B 
+    Codes of length 10 bits (000 total): 
+    Codes of length 11 bits (000 total): 
+    Codes of length 12 bits (000 total): 
+    Codes of length 13 bits (000 total): 
+    Codes of length 14 bits (000 total): 
+    Codes of length 15 bits (000 total): 
+    Codes of length 16 bits (000 total): 
+    Total number of codes: 012
+
+  Expanded Form of Codes:
+    Codes of length 02 bits:
+      00 = 01                            (Total Len =  3)
+    Codes of length 03 bits:
+      010 = 00                           (Total Len =  3)
+      011 = 02                           (Total Len =  5)
+      100 = 03                           (Total Len =  6)
+      101 = 04                           (Total Len =  7)
+      110 = 05                           (Total Len =  8)
+    Codes of length 04 bits:
+      1110 = 06                          (Total Len = 10)
+    Codes of length 05 bits:
+      11110 = 07                         (Total Len = 12)
+    Codes of length 06 bits:
+      111110 = 08                        (Total Len = 14)
+    Codes of length 07 bits:
+      1111110 = 09                       (Total Len = 16)
+    Codes of length 08 bits:
+      11111110 = 0A                      (Total Len = 18)
+    Codes of length 09 bits:
+      111111110 = 0B                     (Total Len = 20)
+
+  ----
+  Destination ID = 0
+  Class = 1 (AC Table)
+    Codes of length 01 bits (000 total): 
+    Codes of length 02 bits (001 total): 01 
+    Codes of length 03 bits (004 total): 00 02 11 03 
+    Codes of length 04 bits (001 total): 04 
+    Codes of length 05 bits (003 total): 21 12 31 
+    Codes of length 06 bits (002 total): 05 41 
+    Codes of length 07 bits (004 total): 51 61 13 22 
+    Codes of length 08 bits (002 total): 71 81 
+    Codes of length 09 bits (005 total): 32 06 14 91 A1 
+    Codes of length 10 bits (007 total): B1 42 23 24 15 52 C1 
+    Codes of length 11 bits (006 total): 62 33 34 72 82 D1 
+    Codes of length 12 bits (008 total): 43 07 25 92 53 F0 E1 F1 
+    Codes of length 13 bits (005 total): 63 73 35 16 A2 
+    Codes of length 14 bits (003 total): B2 83 26 
+    Codes of length 15 bits (012 total): 44 93 54 64 45 C2 A3 74 36 17 D2 55 
+    Codes of length 16 bits (051 total): E2 65 F2 B3 84 C3 D3 75 E3 F3 46 27 94 A4 85 B4 
+                                         95 C4 D4 E4 F4 A5 B5 C5 D5 E5 F5 56 66 76 86 96 
+                                         A6 B6 C6 D6 E6 F6 37 47 57 67 77 87 97 A7 B7 C7 
+                                         D7 E7 F7 
+    Total number of codes: 114
+
+  Expanded Form of Codes:
+    Codes of length 02 bits:
+      00 = 01                            (Total Len =  3)
+    Codes of length 03 bits:
+      010 = 00 (EOB)                     (Total Len =  3)
+      011 = 02                           (Total Len =  5)
+      100 = 11                           (Total Len =  4)
+      101 = 03                           (Total Len =  6)
+    Codes of length 04 bits:
+      1100 = 04                          (Total Len =  8)
+    Codes of length 05 bits:
+      11010 = 21                         (Total Len =  6)
+      11011 = 12                         (Total Len =  7)
+      11100 = 31                         (Total Len =  6)
+    Codes of length 06 bits:
+      111010 = 05                        (Total Len = 11)
+      111011 = 41                        (Total Len =  7)
+    Codes of length 07 bits:
+      1111000 = 51                       (Total Len =  8)
+      1111001 = 61                       (Total Len =  8)
+      1111010 = 13                       (Total Len = 10)
+      1111011 = 22                       (Total Len =  9)
+    Codes of length 08 bits:
+      11111000 = 71                      (Total Len =  9)
+      11111001 = 81                      (Total Len =  9)
+    Codes of length 09 bits:
+      111110100 = 32                     (Total Len = 11)
+      111110101 = 06                     (Total Len = 15)
+      111110110 = 14                     (Total Len = 13)
+      111110111 = 91                     (Total Len = 10)
+      111111000 = A1                     (Total Len = 10)
+    Codes of length 10 bits:
+      1111110010 = B1                    (Total Len = 11)
+      1111110011 = 42                    (Total Len = 12)
+      1111110100 = 23                    (Total Len = 13)
+      1111110101 = 24                    (Total Len = 14)
+      1111110110 = 15                    (Total Len = 15)
+      1111110111 = 52                    (Total Len = 12)
+      1111111000 = C1                    (Total Len = 11)
+    Codes of length 11 bits:
+      11111110010 = 62                   (Total Len = 13)
+      11111110011 = 33                   (Total Len = 14)
+      11111110100 = 34                   (Total Len = 15)
+      11111110101 = 72                   (Total Len = 13)
+      11111110110 = 82                   (Total Len = 13)
+      11111110111 = D1                   (Total Len = 12)
+    Codes of length 12 bits:
+      111111110000 = 43                  (Total Len = 15)
+      111111110001 = 07                  (Total Len = 19)
+      111111110010 = 25                  (Total Len = 17)
+      111111110011 = 92                  (Total Len = 14)
+      111111110100 = 53                  (Total Len = 15)
+      111111110101 = F0 (ZRL)            (Total Len = 12)
+      111111110110 = E1                  (Total Len = 13)
+      111111110111 = F1                  (Total Len = 13)
+    Codes of length 13 bits:
+      1111111110000 = 63                 (Total Len = 16)
+      1111111110001 = 73                 (Total Len = 16)
+      1111111110010 = 35                 (Total Len = 18)
+      1111111110011 = 16                 (Total Len = 19)
+      1111111110100 = A2                 (Total Len = 15)
+    Codes of length 14 bits:
+      11111111101010 = B2                (Total Len = 16)
+      11111111101011 = 83                (Total Len = 17)
+      11111111101100 = 26                (Total Len = 20)
+    Codes of length 15 bits:
+      111111111011010 = 44               (Total Len = 19)
+      111111111011011 = 93               (Total Len = 18)
+      111111111011100 = 54               (Total Len = 19)
+      111111111011101 = 64               (Total Len = 19)
+      111111111011110 = 45               (Total Len = 20)
+      111111111011111 = C2               (Total Len = 17)
+      111111111100000 = A3               (Total Len = 18)
+      111111111100001 = 74               (Total Len = 19)
+      111111111100010 = 36               (Total Len = 21)
+      111111111100011 = 17               (Total Len = 22)
+      111111111100100 = D2               (Total Len = 17)
+      111111111100101 = 55               (Total Len = 20)
+    Codes of length 16 bits:
+      1111111111001100 = E2              (Total Len = 18)
+      1111111111001101 = 65              (Total Len = 21)
+      1111111111001110 = F2              (Total Len = 18)
+      1111111111001111 = B3              (Total Len = 19)
+      1111111111010000 = 84              (Total Len = 20)
+      1111111111010001 = C3              (Total Len = 19)
+      1111111111010010 = D3              (Total Len = 19)
+      1111111111010011 = 75              (Total Len = 21)
+      1111111111010100 = E3              (Total Len = 19)
+      1111111111010101 = F3              (Total Len = 19)
+      1111111111010110 = 46              (Total Len = 22)
+      1111111111010111 = 27              (Total Len = 23)
+      1111111111011000 = 94              (Total Len = 20)
+      1111111111011001 = A4              (Total Len = 20)
+      1111111111011010 = 85              (Total Len = 21)
+      1111111111011011 = B4              (Total Len = 20)
+      1111111111011100 = 95              (Total Len = 21)
+      1111111111011101 = C4              (Total Len = 20)
+      1111111111011110 = D4              (Total Len = 20)
+      1111111111011111 = E4              (Total Len = 20)
+      1111111111100000 = F4              (Total Len = 20)
+      1111111111100001 = A5              (Total Len = 21)
+      1111111111100010 = B5              (Total Len = 21)
+      1111111111100011 = C5              (Total Len = 21)
+      1111111111100100 = D5              (Total Len = 21)
+      1111111111100101 = E5              (Total Len = 21)
+      1111111111100110 = F5              (Total Len = 21)
+      1111111111100111 = 56              (Total Len = 22)
+      1111111111101000 = 66              (Total Len = 22)
+      1111111111101001 = 76              (Total Len = 22)
+      1111111111101010 = 86              (Total Len = 22)
+      1111111111101011 = 96              (Total Len = 22)
+      1111111111101100 = A6              (Total Len = 22)
+      1111111111101101 = B6              (Total Len = 22)
+      1111111111101110 = C6              (Total Len = 22)
+      1111111111101111 = D6              (Total Len = 22)
+      1111111111110000 = E6              (Total Len = 22)
+      1111111111110001 = F6              (Total Len = 22)
+      1111111111110010 = 37              (Total Len = 23)
+      1111111111110011 = 47              (Total Len = 23)
+      1111111111110100 = 57              (Total Len = 23)
+      1111111111110101 = 67              (Total Len = 23)
+      1111111111110110 = 77              (Total Len = 23)
+      1111111111110111 = 87              (Total Len = 23)
+      1111111111111000 = 97              (Total Len = 23)
+      1111111111111001 = A7              (Total Len = 23)
+      1111111111111010 = B7              (Total Len = 23)
+      1111111111111011 = C7              (Total Len = 23)
+      1111111111111100 = D7              (Total Len = 23)
+      1111111111111101 = E7              (Total Len = 23)
+      1111111111111110 = F7              (Total Len = 23)
+
+  ----
+  Destination ID = 1
+  Class = 1 (AC Table)
+    Codes of length 01 bits (002 total): 01 00 
+    Codes of length 02 bits (003 total): 02 11 03 
+    Codes of length 03 bits (002 total): 21 31 
+    Codes of length 04 bits (001 total): 12 
+    Codes of length 05 bits (002 total): 04 41 
+    Codes of length 06 bits (004 total): 51 61 71 22 
+    Codes of length 07 bits (004 total): 13 05 32 81 
+    Codes of length 08 bits (003 total): 91 14 A1 
+    Codes of length 09 bits (004 total): B1 42 23 C1 
+    Codes of length 10 bits (005 total): 52 D1 F0 33 24 
+    Codes of length 11 bits (006 total): 62 E1 72 82 92 43 
+    Codes of length 12 bits (007 total): 53 15 63 73 34 F1 25 
+    Codes of length 13 bits (007 total): 06 16 A2 B2 83 07 26 
+    Codes of length 14 bits (006 total): 35 C2 D2 44 93 54 
+    Codes of length 15 bits (005 total): A3 17 64 45 55 
+    Codes of length 16 bits (053 total): 36 74 65 E2 F2 B3 84 C3 D3 75 E3 F3 46 94 A4 85 
+                                         B4 95 C4 D4 E4 F4 A5 B5 C5 D5 E5 F5 56 66 76 86 
+                                         96 A6 B6 C6 D6 E6 F6 27 37 47 57 67 77 87 97 A7 
+                                         B7 C7 D7 E7 F7 
+    Total number of codes: 114
+
+  Expanded Form of Codes:
+    Codes of length 01 bits:
+      0 = 01                             (Total Len =  2)
+      1 = 00 (EOB)                       (Total Len =  1)
+    Codes of length 02 bits:
+      00 = 02                            (Total Len =  4)
+      01 = 11                            (Total Len =  3)
+      10 = 03                            (Total Len =  5)
+    Codes of length 03 bits:
+      110 = 21                           (Total Len =  4)
+      111 = 31                           (Total Len =  4)
+    Codes of length 04 bits:
+      0000 = 12                          (Total Len =  6)
+    Codes of length 05 bits:
+      00010 = 04                         (Total Len =  9)
+      00011 = 41                         (Total Len =  6)
+    Codes of length 06 bits:
+      001000 = 51                        (Total Len =  7)
+      001001 = 61                        (Total Len =  7)
+      001010 = 71                        (Total Len =  7)
+      001011 = 22                        (Total Len =  8)
+    Codes of length 07 bits:
+      0011000 = 13                       (Total Len = 10)
+      0011001 = 05                       (Total Len = 12)
+      0011010 = 32                       (Total Len =  9)
+      0011011 = 81                       (Total Len =  8)
+    Codes of length 08 bits:
+      00111000 = 91                      (Total Len =  9)
+      00111001 = 14                      (Total Len = 12)
+      00111010 = A1                      (Total Len =  9)
+    Codes of length 09 bits:
+      001110110 = B1                     (Total Len = 10)
+      001110111 = 42                     (Total Len = 11)
+      001111000 = 23                     (Total Len = 12)
+      001111001 = C1                     (Total Len = 10)
+    Codes of length 10 bits:
+      0011110100 = 52                    (Total Len = 12)
+      0011110101 = D1                    (Total Len = 11)
+      0011110110 = F0 (ZRL)              (Total Len = 10)
+      0011110111 = 33                    (Total Len = 13)
+      0011111000 = 24                    (Total Len = 14)
+    Codes of length 11 bits:
+      00111110010 = 62                   (Total Len = 13)
+      00111110011 = E1                   (Total Len = 12)
+      00111110100 = 72                   (Total Len = 13)
+      00111110101 = 82                   (Total Len = 13)
+      00111110110 = 92                   (Total Len = 13)
+      00111110111 = 43                   (Total Len = 14)
+    Codes of length 12 bits:
+      001111110000 = 53                  (Total Len = 15)
+      001111110001 = 15                  (Total Len = 17)
+      001111110010 = 63                  (Total Len = 15)
+      001111110011 = 73                  (Total Len = 15)
+      001111110100 = 34                  (Total Len = 16)
+      001111110101 = F1                  (Total Len = 13)
+      001111110110 = 25                  (Total Len = 17)
+    Codes of length 13 bits:
+      0011111101110 = 06                 (Total Len = 19)
+      0011111101111 = 16                 (Total Len = 19)
+      0011111110000 = A2                 (Total Len = 15)
+      0011111110001 = B2                 (Total Len = 15)
+      0011111110010 = 83                 (Total Len = 16)
+      0011111110011 = 07                 (Total Len = 20)
+      0011111110100 = 26                 (Total Len = 19)
+    Codes of length 14 bits:
+      00111111101010 = 35                (Total Len = 19)
+      00111111101011 = C2                (Total Len = 16)
+      00111111101100 = D2                (Total Len = 16)
+      00111111101101 = 44                (Total Len = 18)
+      00111111101110 = 93                (Total Len = 17)
+      00111111101111 = 54                (Total Len = 18)
+    Codes of length 15 bits:
+      001111111100000 = A3               (Total Len = 18)
+      001111111100001 = 17               (Total Len = 22)
+      001111111100010 = 64               (Total Len = 19)
+      001111111100011 = 45               (Total Len = 20)
+      001111111100100 = 55               (Total Len = 20)
+    Codes of length 16 bits:
+      0011111111001010 = 36              (Total Len = 22)
+      0011111111001011 = 74              (Total Len = 20)
+      0011111111001100 = 65              (Total Len = 21)
+      0011111111001101 = E2              (Total Len = 18)
+      0011111111001110 = F2              (Total Len = 18)
+      0011111111001111 = B3              (Total Len = 19)
+      0011111111010000 = 84              (Total Len = 20)
+      0011111111010001 = C3              (Total Len = 19)
+      0011111111010010 = D3              (Total Len = 19)
+      0011111111010011 = 75              (Total Len = 21)
+      0011111111010100 = E3              (Total Len = 19)
+      0011111111010101 = F3              (Total Len = 19)
+      0011111111010110 = 46              (Total Len = 22)
+      0011111111010111 = 94              (Total Len = 20)
+      0011111111011000 = A4              (Total Len = 20)
+      0011111111011001 = 85              (Total Len = 21)
+      0011111111011010 = B4              (Total Len = 20)
+      0011111111011011 = 95              (Total Len = 21)
+      0011111111011100 = C4              (Total Len = 20)
+      0011111111011101 = D4              (Total Len = 20)
+      0011111111011110 = E4              (Total Len = 20)
+      0011111111011111 = F4              (Total Len = 20)
+      0011111111100000 = A5              (Total Len = 21)
+      0011111111100001 = B5              (Total Len = 21)
+      0011111111100010 = C5              (Total Len = 21)
+      0011111111100011 = D5              (Total Len = 21)
+      0011111111100100 = E5              (Total Len = 21)
+      0011111111100101 = F5              (Total Len = 21)
+      0011111111100110 = 56              (Total Len = 22)
+      0011111111100111 = 66              (Total Len = 22)
+      0011111111101000 = 76              (Total Len = 22)
+      0011111111101001 = 86              (Total Len = 22)
+      0011111111101010 = 96              (Total Len = 22)
+      0011111111101011 = A6              (Total Len = 22)
+      0011111111101100 = B6              (Total Len = 22)
+      0011111111101101 = C6              (Total Len = 22)
+      0011111111101110 = D6              (Total Len = 22)
+      0011111111101111 = E6              (Total Len = 22)
+      0011111111110000 = F6              (Total Len = 22)
+      0011111111110001 = 27              (Total Len = 23)
+      0011111111110010 = 37              (Total Len = 23)
+      0011111111110011 = 47              (Total Len = 23)
+      0011111111110100 = 57              (Total Len = 23)
+      0011111111110101 = 67              (Total Len = 23)
+      0011111111110110 = 77              (Total Len = 23)
+      0011111111110111 = 87              (Total Len = 23)
+      0011111111111000 = 97              (Total Len = 23)
+      0011111111111001 = A7              (Total Len = 23)
+      0011111111111010 = B7              (Total Len = 23)
+      0011111111111011 = C7              (Total Len = 23)
+      0011111111111100 = D7              (Total Len = 23)
+      0011111111111101 = E7              (Total Len = 23)
+      0011111111111110 = F7              (Total Len = 23)
+
+ 
+*** Marker: SOS (Start of Scan) (xFFDA) ***
+  OFFSET: 0x00000667
+  Scan header length = 12
+  Number of img components = 3
+    Component[1]: selector=0x01, table=0(DC),0(AC)
+    Component[2]: selector=0x02, table=1(DC),1(AC)
+    Component[3]: selector=0x03, table=1(DC),1(AC)
+  Spectral selection = 0 .. 63
+  Successive approximation = 0x00
+
+  Scan Data: (after bitstuff removed)
+    f4 04 92 49 25 29 24 93 24 a5 d3 12 02 83 ed 03 41 a9 4e d2 75 25 25 c2 29 b7 84 db d0 8b 94 77 
+    14 53 c2 9b d4 0a 41 ed 2a bc a5 29 27 80 36 64 27 55 83 a1 1d 8e 0e 1a 20 b0 8a 64 92 49 24 85 
+    24 92 49 29 49 24 92 4a 7f d0 f4 04 92 49 25 2c 83 75 d1 ed 6f 3d d1 2c 76 d6 92 ed ec ab 7a 7a 
+    ee 77 29 6b d1 74 47 52 bb 01 e4 a7 2e 4c 5d 1c 28 ca 43 4d 19 29 79 4a 50 dd 68 6a 61 68 29 71 
+    04 d1 48 5c a1 ea a1 bd fa e8 a5 5b 3d 46 e1 df b2 6d 92 74 4d 00 35 64 2d 05 12 b3 2f e6 10 fd 
+    2f d1 6e 8f 70 e5 33 1d ee 13 c2 46 ec 20 d1 05 d0 09 d4 59 3b 47 75 24 e6 05 24 92 49 29 49 24 
+    92 4a 7f d1 f4 04 92 49 25 21 bc c0 08 0e b1 17 27 b2 a8 4a 64 a4 46 81 9a 93 44 9b a5 09 3b 20 
+    c2 70 54 2c d5 33 8a c5 1d d9 00 49 8f 58 b1 e4 bb 54 57 e3 1d 76 fc 92 c6 66 df 77 de ac 4f 89 
+    80 a5 00 56 ac 72 91 bd 1c f3 4b f9 8e f0 ae 63 d0 e6 6a 7b 84 66 86 c6 8a 5d 92 00 05 b2 99 3a 
+    22 81 a8 8d 0a ae 2b 0d bb 69 e3 b2 21 a3 93 64 9e 12 bd 91 0f ee 89 fc 94 3c f7 6c 34 6d 10 a4 
+    a1 53 b7 30 15 34 98 ca 92 49 24 94 a4 92 49 25 3f d2 f4 04 92 49 25 20 ca 13 80 55 13 ca d1 b8 
+    4d 65 51 7d 7b 60 8e 0a 64 87 56 6c 67 44 61 d0 9e 67 42 ac b2 ba 9e c0 d2 3d c4 72 80 fa 8b 1d 
+    07 bb c5 34 c2 b5 5e 24 0e 8d 9a 1d 2d 8e e1 41 cd 7b ac d7 b2 25 2c 04 07 0d 0a b0 00 f9 a9 7a 
+    06 23 2a 25 66 88 01 49 24 92 63 59 0e f6 ee ac f9 22 48 98 51 b3 e8 91 e2 92 46 e8 71 dd 1b 6f 
+    8a b2 ab 06 06 3c 0e e1 1d a6 44 a4 13 2e ec 92 49 24 96 a9 24 92 49 4f d3 f4 04 92 49 25 2c e1 
+    2d 21 07 d1 9a f6 f7 1a 84 64 92 48 34 d5 ac 6d 96 9d 08 53 15 97 08 7d e3 b1 53 b2 90 fd 46 85 
+    0e 2c 47 86 1c 14 97 5d ec cd 95 6c 32 0e 9e 08 a9 84 c2 5b 82 4b 4d 96 49 94 77 b7 c5 38 4e 4a 
+    48 a5 c0 01 24 a6 58 49 25 2c e6 82 3c d0 e9 76 bb 49 fa ae 4e db 8a 49 1a e8 d9 49 30 4e 92 14 
+    92 49 24 a7 d4 f4 04 92 49 25 29 24 92 49 4a 51 74 42 92 62 25 25 29 44 85 24 d0 92 51 96 a9 31 
+    b0 a7 01 22 12 55 ad 21 3a 88 d1 48 70 92 97 55 af 1e f9 56 10 2f 1e e0 81 d9 31 dd 33 0c b0 29 
+    WARNING: Dump truncated.
+
+
+*** Decoding SCAN Data ***
+  OFFSET: 0x00000675
+  Scan Decode Mode: Full IDCT (AC + DC)
+
+*** ERROR: @ 0x00000697.0, nNumCoeffs>64 [65]
+*** ERROR: Bad scan data in MCU(0,0): Chr(Cr) CSS(0,0) @ Offset 0x00000697.4
+           MCU located at pixel=(0,0)
+*** ERROR: @ 0x000006B0.3, nNumCoeffs>64 [69]
+*** ERROR: Bad scan data in MCU(1,0): Chr(Cb) CSS(0,0) @ Offset 0x000006B1.2
+           MCU located at pixel=(16,0)
+*** ERROR: @ 0x000006D4.3, nNumCoeffs>64 [66]
+*** ERROR: Bad scan data in MCU(2,0): Chr(Cb) CSS(0,0) @ Offset 0x000006D4.7
+           MCU located at pixel=(32,0)
+*** ERROR: @ 0x000006E6.0, nNumCoeffs>64 [70]
+*** ERROR: Bad scan data in MCU(2,0): Chr(Cr) CSS(0,0) @ Offset 0x000006E6.7
+           MCU located at pixel=(32,0)
+*** ERROR: @ 0x000006FE.2, nNumCoeffs>64 [65]
+*** ERROR: Bad scan data in MCU(3,0): Chr(Cb) CSS(0,0) @ Offset 0x000006FE.6
+           MCU located at pixel=(48,0)
+*** ERROR: @ 0x00000710.1, nNumCoeffs>64 [68]
+*** ERROR: Bad scan data in MCU(3,0): Chr(Cr) CSS(0,0) @ Offset 0x00000711.0
+           MCU located at pixel=(48,0)
+*** ERROR: @ 0x0000074B.3, nNumCoeffs>64 [68]
+*** ERROR: Bad scan data in MCU(4,0): Chr(Cr) CSS(0,0) @ Offset 0x0000074C.2
+           MCU located at pixel=(64,0)
+*** ERROR: @ 0x00000767.2, nNumCoeffs>64 [65]
+*** ERROR: Bad scan data in MCU(5,0): Chr(Cb) CSS(0,0) @ Offset 0x00000767.6
+           MCU located at pixel=(80,0)
+*** ERROR: @ 0x00000774.7, nNumCoeffs>64 [67]
+*** ERROR: Bad scan data in MCU(5,0): Chr(Cr) CSS(0,0) @ Offset 0x00000775.6
+           MCU located at pixel=(80,0)
+*** ERROR: @ 0x0000078B.3, nNumCoeffs>64 [69]
+*** ERROR: Bad scan data in MCU(6,0): Chr(Cb) CSS(0,0) @ Offset 0x0000078C.2
+           MCU located at pixel=(96,0)
+    Only reported first 20 instances of this message...
+  ERROR: Expected RST marker index RST1 got RST2 @ 0x00000A0E.0
+  Expect Restart interval elapsed @ 0x00001013.6
+    ERROR: Restart marker not detected
+
+*** NOTE: YCC Clipped. MCU=(   0,   0) YCC=(  256,   36,  118) Y Overflow @ Offset 0x00005E13.4
+*** NOTE: YCC Clipped. MCU=(   0,   0) YCC=(  256,   36,  118) Y Overflow @ Offset 0x00005E13.4
+*** NOTE: YCC Clipped. MCU=(   0,   0) YCC=(  256,  130,  145) Y Overflow @ Offset 0x00005E13.4
+*** NOTE: YCC Clipped. MCU=(   0,   0) YCC=(  256,  130,  145) Y Overflow @ Offset 0x00005E13.4
+*** NOTE: YCC Clipped. MCU=(   0,   0) YCC=(  256,   98,  196) Y Overflow @ Offset 0x00005E13.4
+*** NOTE: YCC Clipped. MCU=(   0,   0) YCC=(  256,   98,  196) Y Overflow @ Offset 0x00005E13.4
+*** NOTE: YCC Clipped. MCU=(   0,   0) YCC=(  256,  101,  211) Y Overflow @ Offset 0x00005E13.4
+*** NOTE: YCC Clipped. MCU=(   0,   0) YCC=(  256,  101,  211) Y Overflow @ Offset 0x00005E13.4
+*** NOTE: YCC Clipped. MCU=(   0,   0) YCC=(  256,  135,  215) Y Overflow @ Offset 0x00005E13.4
+*** NOTE: YCC Clipped. MCU=(   0,   0) YCC=(  256,  135,  215) Y Overflow @ Offset 0x00005E13.4
+    Only reported first 10 instances of this message...
+  Compression stats:
+    Compression Ratio:  6.08:1
+    Bits per pixel:     3.95:1
+
+  Huffman code histogram stats:
+    Huffman Table: (Dest ID: 0, Class: DC)
+      # codes of length 01 bits:        0 (  0%)
+      # codes of length 02 bits:      598 ( 83%)
+      # codes of length 03 bits:      110 ( 15%)
+      # codes of length 04 bits:        1 (  0%)
+      # codes of length 05 bits:       11 (  2%)
+      # codes of length 06 bits:        0 (  0%)
+      # codes of length 07 bits:        0 (  0%)
+      # codes of length 08 bits:        0 (  0%)
+      # codes of length 09 bits:        0 (  0%)
+      # codes of length 10 bits:        0 (  0%)
+      # codes of length 11 bits:        0 (  0%)
+      # codes of length 12 bits:        0 (  0%)
+      # codes of length 13 bits:        0 (  0%)
+      # codes of length 14 bits:        0 (  0%)
+      # codes of length 15 bits:        0 (  0%)
+      # codes of length 16 bits:        0 (  0%)
+
+    Huffman Table: (Dest ID: 1, Class: DC)
+      # codes of length 01 bits:        0 (  0%)
+      # codes of length 02 bits:      301 ( 84%)
+      # codes of length 03 bits:       55 ( 15%)
+      # codes of length 04 bits:        0 (  0%)
+      # codes of length 05 bits:        4 (  1%)
+      # codes of length 06 bits:        0 (  0%)
+      # codes of length 07 bits:        0 (  0%)
+      # codes of length 08 bits:        0 (  0%)
+      # codes of length 09 bits:        0 (  0%)
+      # codes of length 10 bits:        0 (  0%)
+      # codes of length 11 bits:        0 (  0%)
+      # codes of length 12 bits:        0 (  0%)
+      # codes of length 13 bits:        0 (  0%)
+      # codes of length 14 bits:        0 (  0%)
+      # codes of length 15 bits:        0 (  0%)
+      # codes of length 16 bits:        0 (  0%)
+
+    Huffman Table: (Dest ID: 0, Class: AC)
+      # codes of length 01 bits:        0 (  0%)
+      # codes of length 02 bits:    36505 ( 99%)
+      # codes of length 03 bits:      288 (  1%)
+      # codes of length 04 bits:       10 (  0%)
+      # codes of length 05 bits:       32 (  0%)
+      # codes of length 06 bits:       15 (  0%)
+      # codes of length 07 bits:       13 (  0%)
+      # codes of length 08 bits:        1 (  0%)
+      # codes of length 09 bits:        1 (  0%)
+      # codes of length 10 bits:        1 (  0%)
+      # codes of length 11 bits:        1 (  0%)
+      # codes of length 12 bits:        0 (  0%)
+      # codes of length 13 bits:        0 (  0%)
+      # codes of length 14 bits:        0 (  0%)
+      # codes of length 15 bits:        0 (  0%)
+      # codes of length 16 bits:        1 (  0%)
+
+    Huffman Table: (Dest ID: 1, Class: AC)
+      # codes of length 01 bits:       21 (  0%)
+      # codes of length 02 bits:     1263 ( 11%)
+      # codes of length 03 bits:      187 (  2%)
+      # codes of length 04 bits:     9343 ( 85%)
+      # codes of length 05 bits:       78 (  1%)
+      # codes of length 06 bits:       94 (  1%)
+      # codes of length 07 bits:       22 (  0%)
+      # codes of length 08 bits:        8 (  0%)
+      # codes of length 09 bits:        6 (  0%)
+      # codes of length 10 bits:        0 (  0%)
+      # codes of length 11 bits:        0 (  0%)
+      # codes of length 12 bits:        0 (  0%)
+      # codes of length 13 bits:        0 (  0%)
+      # codes of length 14 bits:        0 (  0%)
+      # codes of length 15 bits:        0 (  0%)
+      # codes of length 16 bits:        0 (  0%)
+
+  YCC clipping in DC:
+    Y  component: [<0=    0] [>255=   10]
+    Cb component: [<0=    0] [>255=    0]
+    Cr component: [<0=    0] [>255=    0]
+
+  YCC histogram in DC (DCT sums : pre-ranged:
+    Y  component histo: [min=-32768 max=32767 avg=  117.8]
+    Cb component histo: [min=-3607 max= 1167 avg= -946.7]
+    Cr component histo: [min=-3675 max= 2338 avg= -929.1]
+
+  YCC histogram in DC:
+    Y  component histo: [min=-3968 max= 4223 avg=  142.7]
+    Cb component histo: [min= -322 max=  273 avg=    9.6]
+    Cr component histo: [min= -331 max=  420 avg=   11.8]
+
+  RGB histogram in DC (before clip):
+    R  component histo: [min= -179 max=  433 avg=   38.7]
+    G  component histo: [min= -100 max=  390 avg=  221.3]
+    B  component histo: [min= -226 max=  480 avg=    3.2]
+
+  RGB clipping in DC:
+    R  component: [<0=17605] [>255= 4635]
+    G  component: [<0= 1201] [>255=20097]
+    B  component: [<0=17305] [>255= 2830]
+
+  RGB histogram in DC (after clip):
+    R  component histo: [min=    0 max=  255 avg=   76.1]
+    G  component histo: [min=    0 max=  255 avg=  167.9]
+    B  component histo: [min=    0 max=  255 avg=   50.5]
+
+  Average Pixel Luminance (Y):
+    Y=[140] (range: 0..255)
+
+  Brightest Pixel Search:
+    YCC=[32767, -969,-1037] RGB=[ 75,255, 38] @ MCU[  1, 12]
+
+  Finished Decoding SCAN Data
+    Number of RESTART markers decoded: 18
+    Next position in scan buffer: Offset 0x00005E13.4
+
+  Y Histogram in DC: (DCT sums) Full
+    Y=-1024..-1017: 0x0046e4, 0x000000, 0x000001, 0x000001, 0x000000, 0x000000, 0x000003, 0x000000, 
+    Y=-1016..-1009: 0x000000, 0x000000, 0x000001, 0x000000, 0x000000, 0x000001, 0x000000, 0x000000, 
+    Y=-1008..-1001: 0x000002, 0x000000, 0x000000, 0x000001, 0x000000, 0x000000, 0x000000, 0x000000, 
+    Y=-1000.. -993: 0x000000, 0x000000, 0x000000, 0x000002, 0x000000, 0x000000, 0x000000, 0x000000, 
+    Y= -992.. -985: 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000001, 0x000000, 0x000000, 
+    Y= -984.. -977: 0x000001, 0x000000, 0x000001, 0x000001, 0x000000, 0x000001, 0x000001, 0x000000, 
+    Y= -976.. -969: 0x000001, 0x000002, 0x000000, 0x000001, 0x000000, 0x000000, 0x000002, 0x000003, 
+    Y= -968.. -961: 0x000000, 0x000000, 0x000000, 0x000001, 0x000001, 0x000000, 0x000000, 0x000001, 
+    Y= -960.. -953: 0x000001, 0x000002, 0x000001, 0x000001, 0x000001, 0x000003, 0x000001, 0x000001, 
+    Y= -952.. -945: 0x000000, 0x000001, 0x000000, 0x000000, 0x000000, 0x000001, 0x000002, 0x000001, 
+    Y= -944.. -937: 0x000000, 0x000002, 0x000000, 0x000002, 0x000002, 0x000001, 0x000000, 0x000003, 
+    Y= -936.. -929: 0x000000, 0x000001, 0x000002, 0x000000, 0x000000, 0x000001, 0x000001, 0x000000, 
+    Y= -928.. -921: 0x000000, 0x000002, 0x000001, 0x000001, 0x000001, 0x000000, 0x000000, 0x000002, 
+    Y= -920.. -913: 0x000001, 0x000000, 0x000001, 0x000001, 0x000000, 0x000001, 0x000001, 0x000000, 
+    Y= -912.. -905: 0x000002, 0x000001, 0x000001, 0x000009, 0x000000, 0x000001, 0x000002, 0x000000, 
+    Y= -904.. -897: 0x000001, 0x000001, 0x000001, 0x000000, 0x000000, 0x000001, 0x000009, 0x000000, 
+    Y= -896.. -889: 0x000002, 0x000001, 0x000000, 0x000001, 0x000002, 0x000000, 0x000001, 0x000001, 
+    Y= -888.. -881: 0x000000, 0x000000, 0x000001, 0x000003, 0x000000, 0x000001, 0x000008, 0x000003, 
+    Y= -880.. -873: 0x000008, 0x000000, 0x000001, 0x000001, 0x000000, 0x000001, 0x000009, 0x000000, 
+    Y= -872.. -865: 0x000001, 0x000000, 0x000001, 0x000009, 0x000001, 0x000001, 0x00000a, 0x000000, 
+    Y= -864.. -857: 0x000002, 0x00000b, 0x000001, 0x000001, 0x000001, 0x000000, 0x000003, 0x000003, 
+    Y= -856.. -849: 0x000001, 0x000000, 0x000001, 0x000001, 0x000001, 0x000001, 0x000001, 0x000001, 
+    Y= -848.. -841: 0x000002, 0x000003, 0x000000, 0x000001, 0x000001, 0x000003, 0x000002, 0x000002, 
+    Y= -840.. -833: 0x000000, 0x000002, 0x000000, 0x000001, 0x000000, 0x000003, 0x000003, 0x000001, 
+    Y= -832.. -825: 0x000002, 0x000001, 0x000000, 0x000003, 0x000002, 0x000001, 0x000000, 0x000005, 
+    Y= -824.. -817: 0x000000, 0x000003, 0x000002, 0x000000, 0x000001, 0x000002, 0x000002, 0x000002, 
+    Y= -816.. -809: 0x000002, 0x000001, 0x000002, 0x000003, 0x000000, 0x000003, 0x000001, 0x000000, 
+    Y= -808.. -801: 0x000001, 0x000002, 0x000001, 0x000001, 0x000000, 0x000002, 0x000001, 0x000001, 
+    Y= -800.. -793: 0x000001, 0x000000, 0x000001, 0x000001, 0x000001, 0x000004, 0x000002, 0x000002, 
+    Y= -792.. -785: 0x000000, 0x000001, 0x000001, 0x000003, 0x000002, 0x000002, 0x000001, 0x000001, 
+    Y= -784.. -777: 0x000002, 0x000001, 0x000000, 0x000002, 0x000001, 0x000003, 0x000000, 0x000001, 
+    Y= -776.. -769: 0x000000, 0x000002, 0x000001, 0x000003, 0x000000, 0x000001, 0x000000, 0x000000, 
+    Y= -768.. -761: 0x000000, 0x000001, 0x000000, 0x000001, 0x000000, 0x000001, 0x000000, 0x000000, 
+    Y= -760.. -753: 0x000001, 0x000000, 0x000001, 0x000001, 0x000001, 0x000002, 0x000002, 0x000001, 
+    Y= -752.. -745: 0x000001, 0x000003, 0x000001, 0x000002, 0x000000, 0x000001, 0x000002, 0x000003, 
+    Y= -744.. -737: 0x000001, 0x000002, 0x000001, 0x000001, 0x000001, 0x000004, 0x000001, 0x000002, 
+    Y= -736.. -729: 0x000003, 0x000002, 0x000001, 0x000005, 0x000002, 0x000007, 0x000001, 0x000001, 
+    Y= -728.. -721: 0x000002, 0x000004, 0x000000, 0x000001, 0x000004, 0x000005, 0x000006, 0x000001, 
+    Y= -720.. -713: 0x000004, 0x000001, 0x000004, 0x000006, 0x000007, 0x000002, 0x000000, 0x000006, 
+    Y= -712.. -705: 0x000001, 0x000001, 0x000003, 0x000005, 0x000001, 0x000005, 0x000002, 0x000000, 
+    Y= -704.. -697: 0x000002, 0x000002, 0x000002, 0x000005, 0x000001, 0x000000, 0x000000, 0x000002, 
+    Y= -696.. -689: 0x000002, 0x000002, 0x000000, 0x000001, 0x000000, 0x000002, 0x000001, 0x000000, 
+    Y= -688.. -681: 0x000001, 0x000000, 0x000003, 0x000000, 0x000002, 0x000002, 0x000002, 0x000001, 
+    Y= -680.. -673: 0x000000, 0x000000, 0x000003, 0x000002, 0x000001, 0x000002, 0x000000, 0x000001, 
+    Y= -672.. -665: 0x000002, 0x000002, 0x000002, 0x000004, 0x000000, 0x000000, 0x000001, 0x000001, 
+    Y= -664.. -657: 0x000003, 0x000002, 0x000000, 0x000003, 0x000000, 0x000000, 0x000000, 0x000002, 
+    Y= -656.. -649: 0x000000, 0x000001, 0x000000, 0x000001, 0x000001, 0x000002, 0x000000, 0x000001, 
+    Y= -648.. -641: 0x000001, 0x000002, 0x000001, 0x000003, 0x000000, 0x000002, 0x000002, 0x000001, 
+    Y= -640.. -633: 0x000002, 0x000003, 0x000000, 0x000001, 0x000002, 0x000000, 0x000003, 0x000004, 
+    Y= -632.. -625: 0x000002, 0x000000, 0x000001, 0x000002, 0x000001, 0x000003, 0x000000, 0x000001, 
+    Y= -624.. -617: 0x000002, 0x000004, 0x000001, 0x000002, 0x000001, 0x000003, 0x000001, 0x000006, 
+    Y= -616.. -609: 0x000000, 0x000003, 0x000000, 0x000002, 0x000000, 0x000002, 0x000002, 0x000001, 
+    Y= -608.. -601: 0x000002, 0x000002, 0x000001, 0x000003, 0x000002, 0x000001, 0x000000, 0x000004, 
+    Y= -600.. -593: 0x000000, 0x000001, 0x000003, 0x000000, 0x000000, 0x000001, 0x000003, 0x000000, 
+    Y= -592.. -585: 0x000000, 0x000003, 0x000001, 0x000002, 0x000000, 0x000000, 0x000001, 0x000000, 
+    Y= -584.. -577: 0x000001, 0x000000, 0x000000, 0x000000, 0x000002, 0x000001, 0x000001, 0x000001, 
+    Y= -576.. -569: 0x000002, 0x000001, 0x000003, 0x000000, 0x000000, 0x000001, 0x000003, 0x000002, 
+    Y= -568.. -561: 0x000000, 0x000000, 0x000001, 0x000000, 0x000000, 0x000001, 0x000000, 0x000000, 
+    Y= -560.. -553: 0x000002, 0x000000, 0x000000, 0x000002, 0x000000, 0x000005, 0x000000, 0x000000, 
+    Y= -552.. -545: 0x000001, 0x000001, 0x000000, 0x000003, 0x000004, 0x000000, 0x000000, 0x000001, 
+    Y= -544.. -537: 0x000000, 0x000001, 0x000000, 0x000001, 0x000000, 0x000001, 0x000001, 0x000000, 
+    Y= -536.. -529: 0x000005, 0x000003, 0x000001, 0x000002, 0x000001, 0x000001, 0x000005, 0x000001, 
+    Y= -528.. -521: 0x000002, 0x000007, 0x000000, 0x000001, 0x000001, 0x000003, 0x000006, 0x000003, 
+    Y= -520.. -513: 0x000004, 0x000000, 0x000000, 0x000002, 0x000001, 0x000004, 0x000002, 0x000002, 
+    Y= -512.. -505: 0x000001, 0x000002, 0x000001, 0x000007, 0x000002, 0x000005, 0x000001, 0x000001, 
+    Y= -504.. -497: 0x000006, 0x000001, 0x000004, 0x000001, 0x000000, 0x000001, 0x000002, 0x000005, 
+    Y= -496.. -489: 0x000000, 0x000003, 0x000005, 0x000002, 0x000004, 0x000001, 0x000000, 0x000006, 
+    Y= -488.. -481: 0x000004, 0x000001, 0x000003, 0x000001, 0x000000, 0x000002, 0x000002, 0x000000, 
+    Y= -480.. -473: 0x000001, 0x000001, 0x000001, 0x000001, 0x000005, 0x000001, 0x000000, 0x000000, 
+    Y= -472.. -465: 0x000001, 0x000000, 0x000000, 0x000004, 0x000000, 0x000001, 0x000001, 0x000000, 
+    Y= -464.. -457: 0x000002, 0x000000, 0x000002, 0x000002, 0x000002, 0x000001, 0x000002, 0x000000, 
+    Y= -456.. -449: 0x000000, 0x000000, 0x000002, 0x000001, 0x000001, 0x000001, 0x000000, 0x000002, 
+    Y= -448.. -441: 0x000002, 0x000000, 0x000001, 0x000002, 0x000000, 0x000000, 0x000002, 0x000001, 
+    Y= -440.. -433: 0x000000, 0x000001, 0x000001, 0x000003, 0x000001, 0x000001, 0x000000, 0x000000, 
+    Y= -432.. -425: 0x000000, 0x000001, 0x000001, 0x000000, 0x000000, 0x000002, 0x000001, 0x000001, 
+    Y= -424.. -417: 0x000001, 0x000000, 0x000001, 0x000001, 0x000001, 0x000001, 0x000002, 0x000000, 
+    Y= -416.. -409: 0x000001, 0x000002, 0x000000, 0x000002, 0x000000, 0x000000, 0x000004, 0x000003, 
+    Y= -408.. -401: 0x000000, 0x000000, 0x000000, 0x000001, 0x000002, 0x000000, 0x000001, 0x000001, 
+    Y= -400.. -393: 0x000001, 0x000002, 0x000000, 0x000002, 0x000001, 0x000003, 0x000001, 0x000001, 
+    Y= -392.. -385: 0x000000, 0x000001, 0x000000, 0x000000, 0x000000, 0x000002, 0x000002, 0x000001, 
+    Y= -384.. -377: 0x000000, 0x000001, 0x000000, 0x000001, 0x000003, 0x000001, 0x000001, 0x000003, 
+    Y= -376.. -369: 0x000000, 0x000001, 0x000002, 0x000001, 0x000002, 0x000001, 0x000001, 0x000000, 
+    Y= -368.. -361: 0x000000, 0x000001, 0x000001, 0x000001, 0x000000, 0x000000, 0x000000, 0x000000, 
+    Y= -360.. -353: 0x000002, 0x000000, 0x000000, 0x000000, 0x000000, 0x000001, 0x000001, 0x000000, 
+    Y= -352.. -345: 0x000001, 0x000001, 0x000001, 0x000000, 0x000001, 0x000000, 0x000003, 0x000000, 
+    Y= -344.. -337: 0x000000, 0x000000, 0x000001, 0x000000, 0x000000, 0x000001, 0x000000, 0x000000, 
+    Y= -336.. -329: 0x000002, 0x000001, 0x000001, 0x000001, 0x000000, 0x000000, 0x000000, 0x000001, 
+    Y= -328.. -321: 0x000000, 0x000000, 0x000000, 0x000002, 0x000000, 0x000000, 0x000001, 0x000000, 
+    Y= -320.. -313: 0x000000, 0x000000, 0x000000, 0x000001, 0x000001, 0x000003, 0x000000, 0x000000, 
+    Y= -312.. -305: 0x000001, 0x000000, 0x000001, 0x000003, 0x000000, 0x000003, 0x000001, 0x000001, 
+    Y= -304.. -297: 0x000001, 0x000002, 0x000000, 0x000002, 0x000000, 0x000000, 0x000002, 0x000003, 
+    Y= -296.. -289: 0x000000, 0x000001, 0x000000, 0x000001, 0x000001, 0x000002, 0x000000, 0x000002, 
+    Y= -288.. -281: 0x000001, 0x000002, 0x000001, 0x000001, 0x000002, 0x000003, 0x000001, 0x000001, 
+    Y= -280.. -273: 0x000000, 0x000002, 0x000000, 0x000001, 0x000000, 0x000001, 0x000002, 0x000001, 
+    Y= -272.. -265: 0x000000, 0x000002, 0x000000, 0x000001, 0x000002, 0x000002, 0x000000, 0x000003, 
+    Y= -264.. -257: 0x000000, 0x000001, 0x000002, 0x000001, 0x000000, 0x000002, 0x000001, 0x000000, 
+    Y= -256.. -249: 0x000000, 0x000001, 0x000002, 0x000002, 0x000001, 0x000001, 0x000001, 0x000000, 
+    Y= -248.. -241: 0x000001, 0x000000, 0x000000, 0x000000, 0x000001, 0x000002, 0x000002, 0x000001, 
+    Y= -240.. -233: 0x000001, 0x000000, 0x000002, 0x000000, 0x000000, 0x000001, 0x000002, 0x000000, 
+    Y= -232.. -225: 0x000001, 0x000000, 0x000001, 0x000000, 0x000001, 0x000002, 0x000000, 0x000000, 
+    Y= -224.. -217: 0x000002, 0x000000, 0x000001, 0x000001, 0x000000, 0x000000, 0x000001, 0x000000, 
+    Y= -216.. -209: 0x000000, 0x000001, 0x000000, 0x000003, 0x000000, 0x000003, 0x000000, 0x000000, 
+    Y= -208.. -201: 0x000000, 0x000002, 0x000000, 0x000000, 0x000000, 0x000001, 0x000001, 0x000000, 
+    Y= -200.. -193: 0x000001, 0x000001, 0x000002, 0x000001, 0x000001, 0x000001, 0x000001, 0x000000, 
+    Y= -192.. -185: 0x000003, 0x000002, 0x000000, 0x000001, 0x000000, 0x000000, 0x000003, 0x000003, 
+    Y= -184.. -177: 0x000000, 0x000001, 0x000000, 0x000001, 0x000001, 0x000000, 0x000000, 0x000002, 
+    Y= -176.. -169: 0x000001, 0x000002, 0x000001, 0x000001, 0x000001, 0x000003, 0x000001, 0x000001, 
+    Y= -168.. -161: 0x000000, 0x000003, 0x000000, 0x000000, 0x000000, 0x000001, 0x000002, 0x000001, 
+    Y= -160.. -153: 0x000000, 0x000001, 0x000000, 0x000002, 0x000002, 0x000001, 0x000000, 0x000004, 
+    Y= -152.. -145: 0x000001, 0x000001, 0x000003, 0x000001, 0x000000, 0x000001, 0x000002, 0x000000, 
+    Y= -144.. -137: 0x000001, 0x000002, 0x000001, 0x000003, 0x000001, 0x000000, 0x000002, 0x000003, 
+    Y= -136.. -129: 0x000002, 0x000001, 0x000001, 0x000000, 0x000000, 0x000003, 0x000001, 0x000000, 
+    Y= -128.. -121: 0x000003, 0x000000, 0x000001, 0x000001, 0x000000, 0x000000, 0x000002, 0x000000, 
+    Y= -120.. -113: 0x000001, 0x000001, 0x000002, 0x000003, 0x000002, 0x000002, 0x000000, 0x000001, 
+    Y= -112.. -105: 0x000042, 0x000002, 0x000001, 0x000004, 0x000000, 0x000001, 0x000000, 0x000000, 
+    Y= -104..  -97: 0x000002, 0x000000, 0x000002, 0x000004, 0x000002, 0x000001, 0x000004, 0x000004, 
+    Y=  -96..  -89: 0x000002, 0x000009, 0x000002, 0x000000, 0x000008, 0x000003, 0x000002, 0x000001, 
+    Y=  -88..  -81: 0x00000a, 0x000001, 0x000004, 0x000002, 0x000002, 0x000009, 0x000003, 0x000001, 
+    Y=  -80..  -73: 0x000001, 0x000002, 0x000002, 0x00000b, 0x000000, 0x000002, 0x000006, 0x000004, 
+    Y=  -72..  -65: 0x000009, 0x000001, 0x000001, 0x000001, 0x00000f, 0x000002, 0x000001, 0x00000a, 
+    Y=  -64..  -57: 0x000005, 0x000003, 0x000000, 0x000001, 0x000003, 0x000004, 0x000005, 0x000003, 
+    Y=  -56..  -49: 0x000001, 0x000000, 0x000001, 0x000007, 0x000003, 0x000002, 0x000007, 0x000001, 
+    Y=  -48..  -41: 0x000043, 0x000004, 0x000004, 0x000005, 0x00000d, 0x000004, 0x000002, 0x000006, 
+    Y=  -40..  -33: 0x000004, 0x000006, 0x000008, 0x000009, 0x000002, 0x000006, 0x00000b, 0x000008, 
+    Y=  -32..  -25: 0x000004, 0x000012, 0x000003, 0x000004, 0x00000f, 0x000007, 0x000006, 0x000008, 
+    Y=  -24..  -17: 0x00000c, 0x000004, 0x00000d, 0x000007, 0x00000b, 0x00000f, 0x00000a, 0x000009, 
+    Y=  -16..   -9: 0x000059, 0x000004, 0x00000b, 0x00000d, 0x000008, 0x000006, 0x00000e, 0x000007, 
+    Y=   -8..   -1: 0x00000a, 0x000008, 0x000009, 0x000008, 0x000012, 0x000002, 0x000008, 0x000012, 
+    Y=    0..    7: 0x00000d, 0x00000a, 0x00000c, 0x000006, 0x000005, 0x000009, 0x000003, 0x00000e, 
+    Y=    8..   15: 0x000002, 0x00000b, 0x000001, 0x000005, 0x000007, 0x000005, 0x000003, 0x000003, 
+    Y=   16..   23: 0x000007, 0x000002, 0x000003, 0x000007, 0x000003, 0x000007, 0x000005, 0x000001, 
+    Y=   24..   31: 0x000007, 0x000005, 0x000003, 0x000002, 0x000001, 0x000003, 0x000006, 0x000004, 
+    Y=   32..   39: 0x000003, 0x00000e, 0x000003, 0x00000b, 0x00000c, 0x000006, 0x000007, 0x000006, 
+    Y=   40..   47: 0x00000e, 0x000004, 0x000002, 0x000008, 0x000005, 0x00000d, 0x000003, 0x000003, 
+    Y=   48..   55: 0x0001c3, 0x000009, 0x000005, 0x000009, 0x000005, 0x000005, 0x000004, 0x000005, 
+    Y=   56..   63: 0x00000e, 0x00000b, 0x000006, 0x000003, 0x00000e, 0x000006, 0x000006, 0x00000a, 
+    Y=   64..   71: 0x000006, 0x000005, 0x000007, 0x000003, 0x000006, 0x000007, 0x000007, 0x000004, 
+    Y=   72..   79: 0x000003, 0x000004, 0x000006, 0x000009, 0x000007, 0x000006, 0x000002, 0x000003, 
+    Y=   80..   87: 0x000005, 0x000005, 0x000006, 0x00000a, 0x000001, 0x000006, 0x000003, 0x000003, 
+    Y=   88..   95: 0x000002, 0x000006, 0x000007, 0x000003, 0x000004, 0x000005, 0x00000a, 0x000002, 
+    Y=   96..  103: 0x000001, 0x000001, 0x000002, 0x000006, 0x000001, 0x000003, 0x000005, 0x000003, 
+    Y=  104..  111: 0x000004, 0x000004, 0x000005, 0x000001, 0x000001, 0x000006, 0x00000c, 0x000004, 
+    Y=  112..  119: 0x00004d, 0x000001, 0x000002, 0x000002, 0x000001, 0x000004, 0x00000f, 0x000003, 
+    Y=  120..  127: 0x000006, 0x000006, 0x000001, 0x00000a, 0x000001, 0x000004, 0x00000c, 0x000004, 
+    Y=  128..  135: 0x000000, 0x00000a, 0x000004, 0x000005, 0x00000d, 0x000002, 0x000001, 0x000004, 
+    Y=  136..  143: 0x000006, 0x000001, 0x000003, 0x000000, 0x000003, 0x000005, 0x000005, 0x000004, 
+    Y=  144..  151: 0x000007, 0x00000c, 0x000004, 0x000005, 0x000002, 0x000002, 0x000003, 0x000001, 
+    Y=  152..  159: 0x000004, 0x000005, 0x000006, 0x000004, 0x000002, 0x000002, 0x000004, 0x000006, 
+    Y=  160..  167: 0x000003, 0x000002, 0x000001, 0x000004, 0x000007, 0x00000c, 0x000004, 0x000003, 
+    Y=  168..  175: 0x000006, 0x000003, 0x000001, 0x000005, 0x000004, 0x000006, 0x000001, 0x000003, 
+    Y=  176..  183: 0x000006, 0x000004, 0x000001, 0x000004, 0x000002, 0x000002, 0x000002, 0x000001, 
+    Y=  184..  191: 0x00000d, 0x000003, 0x000000, 0x000004, 0x000003, 0x000000, 0x000002, 0x000004, 
+    Y=  192..  199: 0x000049, 0x000004, 0x000002, 0x000008, 0x00000b, 0x000005, 0x000002, 0x00000a, 
+    Y=  200..  207: 0x000001, 0x000003, 0x000002, 0x000001, 0x000005, 0x000003, 0x000004, 0x000004, 
+    Y=  208..  215: 0x000002, 0x000000, 0x000001, 0x000002, 0x000000, 0x000001, 0x000002, 0x000002, 
+    Y=  216..  223: 0x000002, 0x000004, 0x000001, 0x000001, 0x000001, 0x000002, 0x000002, 0x000001, 
+    Y=  224..  231: 0x000002, 0x000000, 0x000002, 0x000001, 0x000003, 0x000004, 0x000000, 0x000000, 
+    Y=  232..  239: 0x000001, 0x000002, 0x000000, 0x000000, 0x000000, 0x000001, 0x000001, 0x000000, 
+    Y=  240..  247: 0x000040, 0x000002, 0x000001, 0x000000, 0x000002, 0x000000, 0x000000, 0x000000, 
+    Y=  248..  255: 0x000000, 0x000001, 0x000001, 0x000000, 0x000002, 0x000000, 0x000001, 0x000000, 
+    Y=  256..  263: 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000003, 0x000001, 
+    Y=  264..  271: 0x000001, 0x000001, 0x000000, 0x000000, 0x000000, 0x000003, 0x000000, 0x000001, 
+    Y=  272..  279: 0x000002, 0x000001, 0x000001, 0x000000, 0x000001, 0x000001, 0x000002, 0x000001, 
+    Y=  280..  287: 0x000000, 0x000000, 0x000003, 0x000000, 0x000002, 0x000001, 0x000002, 0x000000, 
+    Y=  288..  295: 0x000000, 0x000002, 0x000000, 0x000001, 0x000002, 0x000001, 0x000002, 0x000001, 
+    Y=  296..  303: 0x000003, 0x000000, 0x000000, 0x000001, 0x000000, 0x000001, 0x000001, 0x000001, 
+    Y=  304..  311: 0x000001, 0x000001, 0x000001, 0x000002, 0x000002, 0x000001, 0x000000, 0x000000, 
+    Y=  312..  319: 0x000003, 0x000001, 0x000002, 0x000003, 0x000001, 0x000002, 0x000001, 0x000001, 
+    Y=  320..  327: 0x000003, 0x000001, 0x000000, 0x000002, 0x000000, 0x000001, 0x000002, 0x000001, 
+    Y=  328..  335: 0x000001, 0x000000, 0x000000, 0x000002, 0x000000, 0x000000, 0x000000, 0x000001, 
+    Y=  336..  343: 0x000003, 0x000001, 0x000002, 0x000001, 0x000001, 0x000002, 0x000001, 0x000000, 
+    Y=  344..  351: 0x000000, 0x000000, 0x000003, 0x000001, 0x000000, 0x000000, 0x000000, 0x000001, 
+    Y=  352..  359: 0x000000, 0x000001, 0x000000, 0x000000, 0x000002, 0x000000, 0x000000, 0x000000, 
+    Y=  360..  367: 0x000001, 0x000001, 0x000000, 0x000000, 0x000001, 0x000000, 0x000000, 0x000001, 
+    Y=  368..  375: 0x000000, 0x000000, 0x000000, 0x000000, 0x000001, 0x000001, 0x000000, 0x000001, 
+    Y=  376..  383: 0x000000, 0x000000, 0x000000, 0x000000, 0x000001, 0x000000, 0x000001, 0x000001, 
+    Y=  384..  391: 0x000000, 0x000000, 0x000000, 0x000000, 0x000001, 0x000001, 0x000000, 0x000001, 
+    Y=  392..  399: 0x000000, 0x000001, 0x000001, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 
+    Y=  400..  407: 0x000000, 0x000000, 0x000001, 0x000000, 0x000000, 0x000000, 0x000003, 0x000000, 
+    Y=  408..  415: 0x000000, 0x000000, 0x000000, 0x000003, 0x000000, 0x000000, 0x000000, 0x000001, 
+    Y=  416..  423: 0x000000, 0x000000, 0x000000, 0x000001, 0x000000, 0x000000, 0x000000, 0x000000, 
+    Y=  424..  431: 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000001, 0x000000, 0x000000, 
+    Y=  432..  439: 0x000000, 0x000000, 0x000000, 0x000001, 0x000002, 0x000000, 0x000000, 0x000000, 
+    Y=  440..  447: 0x000000, 0x000001, 0x000001, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 
+    Y=  448..  455: 0x000002, 0x000000, 0x000000, 0x000001, 0x000000, 0x000001, 0x000000, 0x000000, 
+    Y=  456..  463: 0x000000, 0x000000, 0x000000, 0x000001, 0x000001, 0x000000, 0x000001, 0x000000, 
+    Y=  464..  471: 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 
+    Y=  472..  479: 0x000001, 0x000000, 0x000000, 0x000000, 0x000001, 0x000001, 0x000001, 0x000000, 
+    Y=  480..  487: 0x000000, 0x000000, 0x000000, 0x000000, 0x000001, 0x000000, 0x000000, 0x000000, 
+    Y=  488..  495: 0x000000, 0x000001, 0x000000, 0x000001, 0x000000, 0x000000, 0x000000, 0x000001, 
+    Y=  496..  503: 0x000000, 0x000000, 0x000000, 0x000001, 0x000000, 0x000001, 0x000000, 0x000000, 
+    Y=  504..  511: 0x000001, 0x000001, 0x000002, 0x000001, 0x000000, 0x000001, 0x000000, 0x000000, 
+    Y=  512..  519: 0x000000, 0x000000, 0x000001, 0x000000, 0x000000, 0x000000, 0x000000, 0x000001, 
+    Y=  520..  527: 0x000000, 0x000000, 0x000001, 0x000000, 0x000001, 0x000000, 0x000000, 0x000000, 
+    Y=  528..  535: 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 
+    Y=  536..  543: 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000001, 0x000001, 0x000000, 
+    Y=  544..  551: 0x000044, 0x000001, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 
+    Y=  552..  559: 0x000000, 0x000000, 0x000000, 0x000001, 0x000000, 0x000000, 0x000000, 0x000000, 
+    Y=  560..  567: 0x000000, 0x000000, 0x000001, 0x000001, 0x000000, 0x000001, 0x000000, 0x000000, 
+    Y=  568..  575: 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000001, 
+    Y=  576..  583: 0x000040, 0x000000, 0x000001, 0x000000, 0x000000, 0x000000, 0x000001, 0x000000, 
+    Y=  584..  591: 0x000000, 0x000000, 0x000001, 0x000000, 0x000001, 0x000000, 0x000001, 0x000000, 
+    Y=  592..  599: 0x000001, 0x000001, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 
+    Y=  600..  607: 0x000001, 0x000000, 0x000001, 0x000000, 0x000000, 0x000000, 0x000000, 0x000001, 
+    Y=  608..  615: 0x000001, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 
+    Y=  616..  623: 0x000001, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 
+    Y=  624..  631: 0x000000, 0x000000, 0x000000, 0x000000, 0x000001, 0x000001, 0x000000, 0x000001, 
+    Y=  632..  639: 0x000001, 0x000001, 0x000001, 0x000000, 0x000001, 0x000000, 0x000001, 0x000000, 
+    Y=  640..  647: 0x000001, 0x000000, 0x000001, 0x000001, 0x000001, 0x000000, 0x000000, 0x000001, 
+    Y=  648..  655: 0x000000, 0x000000, 0x000001, 0x000001, 0x000000, 0x000000, 0x000000, 0x000000, 
+    Y=  656..  663: 0x000002, 0x000002, 0x000000, 0x000000, 0x000002, 0x000000, 0x000001, 0x000000, 
+    Y=  664..  671: 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 
+    Y=  672..  679: 0x000000, 0x000000, 0x000000, 0x000001, 0x000000, 0x000000, 0x000000, 0x000001, 
+    Y=  680..  687: 0x000000, 0x000000, 0x000000, 0x000001, 0x000000, 0x000001, 0x000000, 0x000000, 
+    Y=  688..  695: 0x000000, 0x000001, 0x000000, 0x000001, 0x000000, 0x000005, 0x000000, 0x000000, 
+    Y=  696..  703: 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 
+    Y=  704..  711: 0x000001, 0x000003, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 
+    Y=  712..  719: 0x000000, 0x000000, 0x000000, 0x000000, 0x000000, 0x000001, 0x000001, 0x000000, 
+    Y=  720..  727: 0x000000, 0x000001, 0x000001, 0x000000, 0x000000, 0x000001, 0x000000, 0x000001, 
+    Y=  728..  735: 0x000000, 0x000000, 0x000001, 0x000000, 0x000001, 0x000000, 0x000000, 0x000000, 
+    Y=  736..  743: 0x000000, 0x000000, 0x000002, 0x000002, 0x000001, 0x000002, 0x000000, 0x000000, 
+    Y=  744..  751: 0x000000, 0x000000, 0x000000, 0x000001, 0x000002, 0x000000, 0x000000, 0x000000, 
+    Y=  752..  759: 0x000001, 0x000001, 0x000000, 0x000002, 0x000001, 0x000001, 0x000001, 0x000002, 
+    Y=  760..  767: 0x000001, 0x000001, 0x000000, 0x000000, 0x000001, 0x000003, 0x000003, 0x000001, 
+    Y=  768..  775: 0x000001, 0x000002, 0x000002, 0x000003, 0x000004, 0x000004, 0x000000, 0x000003, 
+    Y=  776..  783: 0x000001, 0x000004, 0x000001, 0x000000, 0x000003, 0x000002, 0x000002, 0x000002, 
+    Y=  784..  791: 0x000001, 0x000003, 0x000012, 0x000006, 0x000003, 0x000002, 0x000004, 0x000002, 
+    Y=  792..  799: 0x000003, 0x000007, 0x000004, 0x000015, 0x000002, 0x000004, 0x000001, 0x000000, 
+    Y=  800..  807: 0x000008, 0x000002, 0x000004, 0x000003, 0x000004, 0x000014, 0x00000a, 0x000005, 
+    Y=  808..  815: 0x000003, 0x000004, 0x000004, 0x000004, 0x000006, 0x000004, 0x000012, 0x000003, 
+    Y=  816..  823: 0x000007, 0x000001, 0x000009, 0x000001, 0x000001, 0x000003, 0x000006, 0x000003, 
+    Y=  824..  831: 0x000004, 0x000001, 0x000004, 0x000002, 0x000004, 0x000005, 0x000002, 0x000002, 
+    Y=  832..  839: 0x000005, 0x000005, 0x000001, 0x000005, 0x000001, 0x000004, 0x000002, 0x000002, 
+    Y=  840..  847: 0x000004, 0x000002, 0x000004, 0x000002, 0x000005, 0x000004, 0x000008, 0x000002, 
+    Y=  848..  855: 0x000001, 0x000002, 0x000001, 0x000002, 0x000003, 0x000003, 0x000003, 0x000002, 
+    Y=  856..  863: 0x000001, 0x000005, 0x000005, 0x000001, 0x000002, 0x000005, 0x000001, 0x000002, 
+    Y=  864..  871: 0x000001, 0x000003, 0x000001, 0x000003, 0x000002, 0x000001, 0x000002, 0x000003, 
+    Y=  872..  879: 0x000003, 0x000003, 0x000006, 0x000003, 0x000001, 0x000001, 0x000000, 0x000002, 
+    Y=  880..  887: 0x000000, 0x000001, 0x000001, 0x000002, 0x000002, 0x000004, 0x000002, 0x000003, 
+    Y=  888..  895: 0x000002, 0x000001, 0x000002, 0x000002, 0x000002, 0x000005, 0x000004, 0x000002, 
+    Y=  896..  903: 0x000001, 0x000000, 0x000005, 0x000003, 0x000002, 0x000000, 0x000005, 0x000001, 
+    Y=  904..  911: 0x000002, 0x000005, 0x000002, 0x000002, 0x000004, 0x000002, 0x000004, 0x000002, 
+    Y=  912..  919: 0x000007, 0x00000a, 0x000002, 0x000003, 0x00000d, 0x000009, 0x000001, 0x000005, 
+    Y=  920..  927: 0x00000c, 0x000000, 0x000006, 0x000000, 0x000002, 0x00000a, 0x000005, 0x000002, 
+    Y=  928..  935: 0x000001, 0x000003, 0x000001, 0x000009, 0x000006, 0x000006, 0x000002, 0x000008, 
+    Y=  936..  943: 0x00000a, 0x000007, 0x000004, 0x000004, 0x000011, 0x000003, 0x000008, 0x00000a, 
+    Y=  944..  951: 0x000047, 0x000007, 0x000003, 0x000003, 0x000001, 0x000006, 0x000005, 0x000003, 
+    Y=  952..  959: 0x000008, 0x000007, 0x000000, 0x000003, 0x000000, 0x000008, 0x000003, 0x000001, 
+    Y=  960..  967: 0x000007, 0x000006, 0x000003, 0x000004, 0x000001, 0x000003, 0x000000, 0x000005, 
+    Y=  968..  975: 0x000009, 0x000005, 0x000001, 0x000005, 0x000003, 0x000005, 0x000006, 0x000001, 
+    Y=  976..  983: 0x000003, 0x000003, 0x000007, 0x000005, 0x000009, 0x00000a, 0x000005, 0x000005, 
+    Y=  984..  991: 0x000005, 0x000006, 0x000009, 0x000002, 0x00000d, 0x000007, 0x00000f, 0x000003, 
+    Y=  992..  999: 0x000007, 0x000007, 0x000004, 0x000004, 0x000006, 0x000008, 0x000005, 0x000008, 
+    Y= 1000.. 1007: 0x000008, 0x000009, 0x000005, 0x000003, 0x000009, 0x000005, 0x00000e, 0x000008, 
+    Y= 1008.. 1015: 0x000043, 0x000015, 0x000006, 0x000007, 0x000017, 0x000014, 0x00000c, 0x000004, 
+    Y= 1016.. 1023: 0x000017, 0x000004, 0x00000c, 0x000006, 0x000005, 0x000016, 0x000004, 0x005832, 
+ 
+*** Marker: ??? (Unknown) (xFF69) ***
+  OFFSET: 0x000009E0
+  WARNING: Unknown marker [0xFF69]
+  Header length = 62468
+  Skipping marker
+ 
+ERROR: Early EOF - file may be missing EOI
+
+*** Searching Compression Signatures ***
+
+  Signature:           017A5AC82607447C4916EC93C4C52016
+  Signature (Rotated): 01FD976A8F0F19C943B7417529D8730E
+  File Offset:         0 bytes
+  Chroma subsampling:  2x2
+  EXIF Make/Model:     NONE
+  EXIF Makernotes:     NONE
+  EXIF Software:       NONE
+
+  Searching Compression Signatures: (3347 built-in, 0 user(*) )
+
+          EXIF.Make / Software        EXIF.Model                            Quality           Subsamp Match?
+          -------------------------   -----------------------------------   ----------------  --------------
+
+  NOTE: Photoshop IRB detected
+  NOTE: JFIF COMMENT field is known software
+  Based on the analysis of compression characteristics and EXIF metadata:
+
+  ASSESSMENT: Class 1 - Image is processed/edited
+
+  Appears to be new signature for Photoshop.
+  If it doesn't appear in list above,
+  PLEASE ADD TO DATABASE with [Tools->Add Camera to DB]
+
