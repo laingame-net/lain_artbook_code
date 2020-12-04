@@ -30,7 +30,6 @@ import io
 import os
 import struct
 import binascii
-from shutil import copyfile
 
 __all__ = ["binhex", "hexbin", "Error"]
 
@@ -40,7 +39,6 @@ class Error(Exception):
 
 
 # States (what have we written)
-_DID_NOT = -1
 _DID_HEADER = 0
 _DID_DATA = 1
 
@@ -361,16 +359,9 @@ class _Rledecoderengine:
         else:
             mark = mark - 1
 
-        if mark > 1:
-            with io.open('before_rle.jpg', "wb") as ff:
-                ff.write(b"\xFF\xD8\xFF\xE0")
-                ff.write(self.pre_buffer)
-                ff.close()
-
         self.post_buffer = self.post_buffer + binascii.rledecode_hqx(
             self.pre_buffer[:mark]
         )
-
         self.pre_buffer = self.pre_buffer[mark:]
 
     def close(self):
@@ -379,8 +370,6 @@ class _Rledecoderengine:
 
 class HexBin:
     def __init__(self, ifp):
-        self.state = _DID_NOT
-        self.iname = ifp
         if isinstance(ifp, str):
             ifp = io.open(ifp, "rb")
         #
@@ -417,10 +406,6 @@ class HexBin:
             print("CRC error at %X, computed %x, read %x" % (pos, self.crc, filecrc))
             # raise Error('CRC error, computed %x, read %x'
             #            % (self.crc, filecrc))
-        else:
-            if self.state == _DID_DATA and self.crc != 0:
-              copyfile(self.iname, self.iname+".crc_match")
-              raise Error('CRC match!')
         self.crc = 0
 
     def _readheader(self):
