@@ -1,0 +1,14 @@
+Allowed Symbols: 
+    !"#$%&'()*+,-012345689@ABCDEFGHIJKLMNPQRSTUVXYZ[`abcdefhijklmpqr
+
+DQT:
+    28:20 - ???
+    28:35 - ???
+    28:44 - [1l`]
+    28:51 - [!lj1]  # IGNORE THAT
+    28:52 - [`'"]   # IGNORE THAT
+    29:51 - ???
+    29:52 - ???
+    29:59 - ???
+    35:4 - [1liI]
+
