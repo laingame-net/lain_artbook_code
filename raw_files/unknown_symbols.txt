@@ -14,3 +14,5 @@ DQT:
 DHT:
     35:4 - [1liI]
 
+ScanData:
+    55:51 - *
